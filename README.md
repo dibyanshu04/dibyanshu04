@@ -4,7 +4,7 @@
 - 💞️ I’m constantly improving / Loving myself.
 - 📫 You can contact me on mail, dibyanshusinghds@gmail.com
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" height="300" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="200" />
 
 <!---
 dibyanshu04/dibyanshu04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
