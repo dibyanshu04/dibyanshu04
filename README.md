@@ -5,7 +5,7 @@
 - 📫 You can contact me on mail, dibyanshusinghds@gmail.com
 - 
 - 
-- [Alt Text](https://tenor.com/view/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C-gif-22276929.gif) 
+![Alt Text](https://tenor.com/view/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C-gif-22276929.gif) width ="22px"
 
 
 <!---
